@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(171, 186, 212, 0.363);
+}
+h1{
+    text-align: center;
+    color: #f3fafafb;
+    background-color: rgb(167, 98, 236);
+    font-family:rayyan;
+    font-size: 30px;
+    text-shadow: 4px 3px #ebdfe033;
+    
+}
+
+@font-face{
+    font-family: rayyan;
+    src: url(./Alice-Regular.ttf);
+}
+table{
+    font-family: rayyan;
+    border: #e2283833;
+    font-size: 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
+.ry{
+    background-color: rgb(243, 231, 217);
+    color: #630910b6;
+
+}
+li{
+    text-align: center;
+    font-family: rayyan;
+}
+span{
+    vertical-align: sub;
+    font-size: 1px;
+}
+ins{
+    text-decoration: none;
+}
